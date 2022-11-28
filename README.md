@@ -7,3 +7,4 @@ This tutorial covers basic principles like data standardization, dimensionality 
 The notebooks are availabe on Binder:
 
 1. [Data Standardization & Dimensionality Reduction](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stammler/ml_intro/HEAD?labpath=notebooks%2F1_data.ipynb)
+2. [Principal Component Analysis: An Example](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stammler/ml_intro/HEAD?labpath=notebooks%2F2_pca_example.ipynb)
