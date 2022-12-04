@@ -3,4 +3,6 @@ numpy
 scikit-learn
 scipy
 torch
+torchaudio
+torchvision
 tqdm
